@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A01A1757-BE7E-456B-8119-C2862511E73D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SEF_AssIgnment1/Board.cs">
+    <Files>
+      <File FileName="SEF_AssIgnment1/Program.cs" Line="13" Column="1" />
+      <File FileName="SEF_AssIgnment1/Board.cs" Line="100" Column="9" />
+      <File FileName="../../../Game Studio 1/Assignment 2 DnD Stuff/DnDAssignment2/DnDAssignment2/EmptyClass.cs" Line="63" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SEF__AssIgnment1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
